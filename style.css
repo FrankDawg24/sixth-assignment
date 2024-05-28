@@ -1,0 +1,31 @@
+.body {
+    text-align: center;
+}
+#header {
+    font-size: 4rem;
+    text-align:center;
+    color: black;
+    padding-top: 58px;
+    font-family:'poppins';
+}
+
+p {
+    text-align: center;
+}
+
+div.skrolly {
+    background-color: white;
+    width: 810px;
+    height: 510px;
+    overflow: auto;
+    
+}
+
+#bottom {
+    font-size: 4rem;
+    text-align:center;
+    color: black;
+    padding-top: 58px;
+    font-family:'poppins';
+}
+  
